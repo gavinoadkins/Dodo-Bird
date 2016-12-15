@@ -1,0 +1,35 @@
+
+body {
+    background-color: #f8333c;
+    padding-top: 0;
+
+}
+
+
+header{
+	text-align: center;
+	padding: 50px 0;
+	font-style: bold;
+	font-size: 2em;
+	border-bottom: 3px black solid;
+	margin-bottom: 15px;
+}
+
+.info div{
+	background-color: #06f9e4;
+	float:left;
+	width: 30%;
+	padding: 5%;
+	margin: 0 5%;
+	text-shadow: .5px .5px #000;
+
+}
+
+.info div img{
+	width: 100%;
+	border-radius: 30%;
+
+}
+.container div {
+	padding: 5%;
+}
